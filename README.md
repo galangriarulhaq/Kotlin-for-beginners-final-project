@@ -1,9 +1,9 @@
 # Proyek Submission MPK 
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
+Repository "learn Mobile Development" at IDCamp || a scholarship program organized by Indosat Ooredoo Hutchison "Start Programming with Kotlin" project-submission-mpk-2.0.1-with-Dicoding.
 
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+This repository consists of a submission and some exercises. I got 5 stars on the submission, Hopefully my repository can be useful to be used as a reference for all friends.
+
+If you like it, Just star or fork this repository, and follow my github. You have supported me!
+
+Translated with www.DeepL.com/Translator (free version)
